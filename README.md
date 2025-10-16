@@ -11,4 +11,3 @@ Medical Professionals	2024-09-17	2023-10-07 to 2024-08-31	https://t.me/MOHMediaG
 9	2025-06-23	2023-10-07 to 2025-06-15	https://t.me/MOHMediaGaza/6673
 10	2025-07-16	2023-10-07 to 2025-07-15	https://t.me/MOHMediaGaza/6729?single
 11	2025-08-04	2023-10-07 to 2025-07-31	https://t.me/MOHMediaGaza/6817
-![Uploading image.png…]()
